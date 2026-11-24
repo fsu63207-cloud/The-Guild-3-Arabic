@@ -2,22 +2,76 @@
 
 ## نبذة عن التعريب
 
-تعريب لعبة The Guild 3 باللغة العربية لتوفير تجربة لعب باللغة العربية.
+مشروع تعريب شامل للعبة The Guild 3 على الكمبيوتر،
+يهدف إلى توفير تجربة لعب باللغة العربية، مع مثبت
+تلقائي لتسهيل تركيب التعريب واستعادة اللغة الأصلية.
 
 ## تحميل التعريب | Download
 
 [تحميل أحدث إصدار من التعريب](https://github.com/fsu63207-cloud/The-Guild-3-Arabic/releases/latest)
 
-[التحميل المباشر - v1.0](https://github.com/fsu63207-cloud/The-Guild-3-Arabic/releases/download/v1.0/The-Guild-3-Arabic-v1.0.zip)
-
 ## معلومات التعريب
 
-- اللعبة: The Guild 3
+- إصدار المثبت: V4.1 FINAL
 - اللغة: العربية
-- الإصدار: v1.0
 - المنصة: PC
+- Game Version: 1.0.7
+- Game Build: 694816
+- Steam Build: 12036682
 
-## صور من داخل اللعبة بعد التعريب | Screenshots
+## مميزات التعريب
+
+- 11,274 مدخلاً يحتوي على نص عربي.
+- دعم ستة خطوط عربية.
+- معالجة اتصال الحروف العربية.
+- معالجة اتجاه الكتابة.
+- تحسين واجهات اللعبة.
+- تحسين الرسائل والإشعارات.
+- تحسين نصوص المهام والتعليمات.
+- مثبت تلقائي يعمل دون اتصال بالإنترنت.
+- التحقق من سلامة الملفات باستخدام SHA256.
+- إمكانية استعادة اللغة الأصلية.
+- اكتشاف مسارات تثبيت اللعبة ومكتبات Steam.
+
+## طريقة تركيب التعريب | Installation
+
+1. حمّل ملف التعريب وفك الضغط عنه.
+2. أغلق اللعبة بالكامل.
+3. شغّل The_Guild_3_Arabic_V4_1_Setup.exe
+4. حدد مجلد اللعبة الرئيسي.
+5. اضغط على تثبيت التعريب.
+6. تحقق من المسار في نافذة التأكيد.
+7. انتظر ظهور رسالة نجاح التثبيت.
+8. شغّل اللعبة واختر اللغة الإنجليزية.
+
+### مسار اللعبة الافتراضي
+
+`C:\Program Files (x86)\Steam\steamapps\common\The Guild 3`
+
+## استعادة اللغة الأصلية
+
+1. أغلق اللعبة بالكامل.
+2. شغّل برنامج تثبيت التعريب.
+3. حدد مجلد اللعبة.
+4. اضغط على استعادة اللغة الأصلية.
+5. انتظر اكتمال العملية.
+
+لا تحذف ملف النسخة الاحتياطية:
+`Guild3_Arabic_Backup.zip`
+
+## ملاحظات مهمة
+
+- التعريب غير رسمي.
+- قد تبقى بعض الأسماء والنصوص والصور بالإنجليزية.
+- المثبت غير موقع رقمياً.
+- قد تؤثر تحديثات اللعبة على توافق التعريب.
+- تمت معالجة اتجاه الكتابة برمجياً.
+- تم اختبار التثبيت والاستعادة على 19 ملفاً أصلياً.
+- لم يتم اختبار تشغيل نسخة نظيفة كاملة بعد التثبيت.
+- لم يتم اختبار اللعب الجماعي أو المثبت على أجهزة أخرى.
+- حقوق إعادة توزيع الملفات والخطوط المعدلة لم يتم التحقق منها.
+
+## صور اللعبة بعد التعريب | Screenshots
 
 <img width="2559" height="1439" alt="Screenshot 2026-11-25 000939" src="https://github.com/user-attachments/assets/63674a81-7799-494b-a375-77cf09bb28f8" />
 <img width="2559" height="1439" alt="Screenshot 2026-11-25 000944" src="https://github.com/user-attachments/assets/04ab8af2-ce34-4524-aedd-783a3d04d5e8" />
@@ -27,21 +81,27 @@
 <img width="2554" height="1434" alt="Screenshot 2026-11-25 001018" src="https://github.com/user-attachments/assets/89df1294-b67e-472d-8e15-90fb6efb45d4" />
 
 
-
-
-
-
-## الإبلاغ عن الأخطاء
+## الإبلاغ عن الأخطاء | Bug Reports
 
 [الإبلاغ عن مشكلة في التعريب](https://github.com/fsu63207-cloud/The-Guild-3-Arabic/issues)
 
 ## English Description
 
-The Guild 3 Arabic Translation Patch.
-Download the Arabic language mod for The Guild 3 on PC.
+The Guild 3 Arabic Localization V4.1 FINAL.
+
+An unofficial Arabic translation patch featuring
+11,274 entries containing Arabic text, Arabic fonts,
+text direction processing, an offline installer,
+and original file restoration.
+
+Supported Game Version: 1.0.7
 
 ## Keywords
 
-The Guild 3 Arabic Mod, The Guild 3 Arabic Patch,
-The Guild 3 Arabic Translation, تعريب لعبة ذا قيلد 3،
-تحميل تعريب The Guild 3، تعريب The Guild3.
+The Guild 3 Arabic Translation,
+The Guild 3 Arabic Patch,
+The Guild 3 Arabic Mod,
+The Guild 3 Arabic Localization,
+تعريب لعبة The Guild 3،
+تحميل تعريب The Guild 3،
+تعريب ذا قيلد 3.
